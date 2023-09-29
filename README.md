@@ -1,4 +1,4 @@
-[![MasterHead](https://raw.githubusercontent.com/Samim-Aktar-coder/Product-void-website/main/Github%20Banner.png)](https://productvoids-example.netlify.app)
+[![MasterHead](https://image-link-website.netlify.app/img/product-video.png)](https://productvoids-example.netlify.app)
 
 ### Live: [Click Here](https://productvoids-example.netlify.app)
 
@@ -16,7 +16,7 @@ Tech stack I use to build this app:
 
 ## 🙋‍♂️ Author
 
-- [@SamimAktar](https://github.com/Samim-Aktar-coder)
+- [@SamimAktar](https://github.com/samimaktar-coder)
 
 ## Installation
 
